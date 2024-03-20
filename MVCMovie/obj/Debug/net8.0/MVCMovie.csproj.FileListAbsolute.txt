@@ -29,3 +29,14 @@ C:\Users\Khanh Ly\Pictures\Net_Core_API\DemoMVC\obj\Debug\net8.0\refint\DemoMVC.
 C:\Users\Khanh Ly\Pictures\Net_Core_API\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
 C:\Users\Khanh Ly\Pictures\Net_Core_API\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
 C:\Users\Khanh Ly\Pictures\Net_Core_API\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.dll
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+C:\Users\Khanh Ly\Pictures\Net_Core_API\MVCMovie\obj\Debug\net8.0\MvcMovie.pdb

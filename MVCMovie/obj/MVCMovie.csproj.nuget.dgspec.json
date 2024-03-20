@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\DemoMVC.csproj": {}
+    "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\DemoMVC.csproj": {
+    "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\DemoMVC.csproj",
-        "projectName": "DemoMVC",
-        "projectPath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
+        "projectName": "MvcMovie",
+        "projectPath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Khanh Ly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Khanh Ly\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

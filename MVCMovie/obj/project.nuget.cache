@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFrPoGyz7SHaB0OwBlhEaPuM0kXlQJJ5U03HZym9af4lVUhGJSafRITpZHg42RiSrCdykF+ZRUO2tnBYzSerpg==",
+  "dgSpecHash": "tOnfIsnWXLr/8gHbjXsNB0FCD6eFhBZ3tsPgLekdx3GVxOML2MGvh2qg61LieT242emln49CHUBbNgEZzdtUHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\DemoMVC\\DemoMVC.csproj",
+  "projectFilePath": "C:\\Users\\Khanh Ly\\Pictures\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
